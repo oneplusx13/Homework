@@ -26,3 +26,6 @@ Articles:
 
 https://medium.com/@aashishkumar12376/10-python-features-that-seem-confusing-but-are-pure-genius-a5c27fe14445
 
+
+![image](https://github.com/user-attachments/assets/751a885a-1925-4d2a-98ff-b64003f1e9df)
+
