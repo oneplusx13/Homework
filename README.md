@@ -29,3 +29,5 @@ https://medium.com/@aashishkumar12376/10-python-features-that-seem-confusing-but
 
 ![image](https://github.com/user-attachments/assets/751a885a-1925-4d2a-98ff-b64003f1e9df)
 
+I plan on making a lot of money in my new career!
+
