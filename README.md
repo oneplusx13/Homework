@@ -1,6 +1,6 @@
 # Brandon Gammage
 
-*Ubuntu enthusiast*
+## *Ubuntu enthusiast*
 
 
 Goals for DAP:
