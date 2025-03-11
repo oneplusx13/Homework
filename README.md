@@ -1,4 +1,4 @@
-# Brandon Gammage
+ Brandon Gammage
 
 Ubuntu enthusiast
 
