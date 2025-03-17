@@ -31,3 +31,12 @@ https://medium.com/@aashishkumar12376/10-python-features-that-seem-confusing-but
 
 "I plan on making a lot of money in my new career!"
 
+
+Questions:
+
+1. CLI is command line interface and it is used through a terminal.
+2. Versioning control system is way to track progress and it is used to document and save projects.
+3. Github is a website that stores data. Git is a command line tool.
+4. The main branch is the control branch
+5. IDE is integrated Development Environment.
+
